@@ -31,8 +31,7 @@ endmodule
 
 // ============================================================================
 // 8-Bank Data Memory BRAM
-//
-// Debug port removed completely.
+
 //
 // Purpose:
 //   - CPU normal 32-bit read/write port
